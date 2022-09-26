@@ -7,8 +7,11 @@ body{
 #title{
   background-color: #7FBCD2 ;
   position: relative;
-  padding-bottom: 12%;
+  padding-bottom: 5%;
   padding-left: 7%;
+}
+.title-img{
+  width: 95%;
 }
 
 
@@ -19,8 +22,15 @@ h1{
   font-weight: 900;
   margin-bottom: 5%;
   color: white;
-}
+  text-align: left;
+  padding-left: 5%;
 
+}
+.img_title{
+  padding-bottom: 2%;
+  padding-right: 2%;
+
+}
 
 
 
@@ -94,11 +104,9 @@ h3{
 }
 .container-fluid{
   padding: 3%;
+  padding-bottom: 1%;
 }
 
-.navbar{
-  margin-bottom: 50px;
-}
 .navbar-brand{
   font-family: 'Ubuntu';
   font-size: 2.5rem;
