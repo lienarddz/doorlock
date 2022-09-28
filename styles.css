@@ -24,6 +24,7 @@ h1{
   color: white;
   text-align: left;
   padding-left: 10%;
+  padding-top: 5%;
 
 }
 .img_title{
@@ -157,4 +158,19 @@ h3{
 .about{
   margin-top: 2%;
   color: black;
+}
+.footer-icon{
+  padding-top: 2%;
+  margin: 0;
+  width: 100px;
+  padding-left: 7%;
+  text-align: left;
+}
+.footer-div{
+  padding-left: 19%;
+  margin: 0;
+
+}
+.footer-icon:hover{
+  color: #fff;
 }
